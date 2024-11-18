@@ -21,7 +21,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class SlackFormApp {
-    private static final String SLACK_BOT_TOKEN = "xoxb-8064078142368-8041315279506-mTDJPDYUDmd7Iry4t7TiliM1"; // Place your bot token here
+    private static final String SLACK_BOT_TOKEN = "xoxb-8064078142368-8041315279506-mTDJPDYUDmd7Iry4t7TiliM1";
     private static final Slack slack = Slack.getInstance();
 
     public static void main(String[] args) throws IOException {
